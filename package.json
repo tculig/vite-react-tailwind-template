@@ -14,9 +14,16 @@
     "test:coverage": "vitest run --coverage"
   },
   "dependencies": {
+    "@radix-ui/react-toast": "^1.2.6",
+    "@tanstack/react-query": "^5.66.11",
+    "class-variance-authority": "^0.7.1",
+    "embla-carousel-react": "^8.5.2",
     "lucide-react": "^0.344.0",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.2",
+    "tailwind-merge": "^3.0.2",
+    "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
